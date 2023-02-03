@@ -8,5 +8,5 @@ null,
 {"id":6,"expanded":false,"name":"Weapon Shop","order":8,"parentId":9,"scrollX":780,"scrollY":475.5},
 {"id":7,"expanded":false,"name":"Forest","order":5,"parentId":4,"scrollX":780,"scrollY":475.5},
 null,
-{"id":9,"expanded":true,"name":"Normal Town","order":6,"parentId":4,"scrollX":1148,"scrollY":951.5}
+{"id":9,"expanded":true,"name":"Normal Town","order":6,"parentId":4,"scrollX":1148,"scrollY":467.5}
 ]
