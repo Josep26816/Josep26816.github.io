@@ -2,6 +2,6 @@
 null,
 {"id":1,"battlerName":"Fighting man","characterIndex":0,"characterName":"Man","classId":1,"equips":[6,0,0,0,0],"faceIndex":0,"faceName":"Man","traits":[],"initialLevel":1,"maxLevel":99,"name":"Yao-Ling","nickname":"","note":"","profile":""},
 {"id":2,"battlerName":"Jamal","characterIndex":0,"characterName":"Jamal","classId":2,"equips":[6,0,0,0,0],"faceIndex":0,"faceName":"Jamal","traits":[],"initialLevel":1,"maxLevel":99,"name":"Jamal","nickname":"","note":"","profile":""},
-{"id":3,"battlerName":"Female","characterIndex":0,"characterName":"Female","classId":3,"equips":[6,0,0,0,0],"faceIndex":0,"faceName":"Female","traits":[],"initialLevel":1,"maxLevel":99,"name":"Nique","nickname":"","note":"","profile":""},
-{"id":4,"battlerName":"Kyle","characterIndex":0,"characterName":"Kyle","classId":4,"equips":[6,0,0,0,0],"faceIndex":0,"faceName":"Kyle","traits":[],"initialLevel":1,"maxLevel":99,"name":"Kyle","nickname":"","note":"","profile":""}
+{"id":3,"battlerName":"Female","characterIndex":0,"characterName":"Female","classId":4,"equips":[6,0,0,0,0],"faceIndex":0,"faceName":"Female","traits":[],"initialLevel":1,"maxLevel":99,"name":"Nique","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"Kyle","characterIndex":0,"characterName":"Kyle","classId":3,"equips":[6,0,0,0,0],"faceIndex":0,"faceName":"Kyle","traits":[],"initialLevel":1,"maxLevel":99,"name":"Kyle","nickname":"","note":"","profile":""}
 ]
